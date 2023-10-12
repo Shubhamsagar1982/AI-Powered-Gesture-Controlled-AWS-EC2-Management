@@ -13,8 +13,8 @@ import boto3
 myec2 = boto3.resource(
     "ec2",
     region_name="ap-south-1",
-    aws_access_key_id="AKIAVMGDPYI7PSW5HELM",
-    aws_secret_access_key="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"
+    aws_access_key_id="",
+    aws_secret_access_key=""
 )
 
 
